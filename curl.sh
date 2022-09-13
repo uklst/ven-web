@@ -10,7 +10,7 @@ curl --request HEAD --url
 curl --request ACL   --url  
 curl --request BASELINE-CONTROL   --url 
 curl --request BIND   --url  
-curl --request CHECKIN	  --url w 
+curl --request CHECKIN	  --url  
 curl --request RFC3253  --ur 
 curl --request CHECKOUT  --url  
 curl --request RFC3253  --url  
