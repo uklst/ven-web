@@ -32,10 +32,10 @@ curl --request PROPFIND   --url
 curl --request PROPPATCH   --url  
 curl --request REBIND  --url  
 curl --request SEARCH  --url    
-curl --request UNBIND 
-curl --request UNCHECKOUT  
-curl --request UNLINK  
-curl --request UNLOCK  
-curl --request UPDATE  
-curl --request UPDATEREDIRECTREF  
-curl --request  
+curl --request UNBIND   --url  
+curl --request UNCHECKOUT  --url
+curl --request UNLINK   --url
+curl --request UNLOCK  --url 
+curl --request UPDATE   --url
+curl --request UPDATEREDIRECTREF   --url
+ 
