@@ -38,4 +38,4 @@ curl --request UNLINK   --url
 curl --request UNLOCK  --url 
 curl --request UPDATE   --url
 curl --request UPDATEREDIRECTREF   --url
- 
+ update all   
